@@ -2,7 +2,7 @@
 
 ## Portfólio Individual
 
-**Aluna:** Glaucia Santana  
+**Aluna:** Glaucia Rodrigues Sirquera Santana  
 **Disciplina:** PCS5917 – IA Adversarial  
 **Período:** 3º período de 2026  
 **Instituição:** Universidade de São Paulo – Escola Politécnica  
